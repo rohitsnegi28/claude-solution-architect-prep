@@ -4,20 +4,26 @@ This repository contains structured revision notes for the Claude Solution Archi
 
 ## How To Use This Repo
 
-Add each day's learning outcomes, video summaries, or rough notes into `daily-notes/`. Then refine them into exam-ready notes using this structure:
+Add each learning outcome, video summary, or rough note under the relevant course module in `course-modules/`. Each lesson should be refined into exam-ready notes using this structure:
 
 - Topic overview
+- Learning outcomes
 - Key concepts
-- Architecture patterns
+- Architecture or solution design connection
 - Claude-specific terms
 - Important use cases
 - Exam-focused takeaways
 - Likely questions
 - Quick revision notes
 
-## Study Index
+## Course Modules
 
-- [Day 01 Notes](daily-notes/day-01.md)
+### AI Fluency
+
+- [Lesson 01: Introduction to AI Fluency](course-modules/ai-fluency/lesson-01-introduction-to-ai-fluency.md)
+
+## Reference
+
 - [Glossary](reference/glossary.md)
 - [Likely Exam Questions](reference/likely-exam-questions.md)
 
