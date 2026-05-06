@@ -1,22 +1,22 @@
 # Claude Solution Architect Exam Prep
 
-This repository contains structured revision notes for the Claude Solution Architect preparation provided by my organization.
+This repository is a structured learning workspace for Claude Solution Architect preparation. It treats the material as both a revision course and a maintainable knowledge base.
 
-## How To Use This Repo
+## Setup
 
-Add each learning outcome, video summary, or rough note under the relevant course module in `course-modules/`. Each lesson should be refined into exam-ready notes using this structure:
+No build step or package installation is required. Open the Markdown files in an editor, add new notes under `course-modules/`, and keep the root dashboards updated when durable learning state changes.
 
-- Topic overview
-- Learning outcomes
-- Key concepts
-- Architecture or solution design connection
-- Claude-specific terms
-- Important use cases
-- Exam-focused takeaways
-- Likely questions
-- Quick revision notes
+## Start Here
 
-## Course Modules
+- [CONTEXT_SNAPSHOT.md](CONTEXT_SNAPSHOT.md) - compressed memory for future chats.
+- [LEARNINGS.md](LEARNINGS.md) - beginner-friendly revision map.
+- [ARCHITECTURE.md](ARCHITECTURE.md) - repository structure and knowledge flows.
+- [TODO.md](TODO.md) - next actions and roadmap.
+- [PROMPTS.md](PROMPTS.md) - reusable AI prompts for maintaining the workspace.
+
+## Source Material
+
+Course lessons live in `course-modules/`. Keep these as the canonical notes for each lesson.
 
 ### AI Fluency: Framework & Foundations
 
@@ -35,9 +35,22 @@ Add each learning outcome, video summary, or rough note under the relevant cours
 
 ## Reference
 
-- [Glossary](reference/glossary.md)
+- [Expanded Glossary](reference/glossary.md)
 - [Likely Exam Questions](reference/likely-exam-questions.md)
 
-## Weekly Goal
+## Documentation System
 
-Build a concise, systematic reference that can be revised quickly before the exam.
+The root files give fast orientation. The `docs/` folders provide topic-specific detail:
+
+- `docs/architecture/` - structure, flows, dependencies, diagrams.
+- `docs/features/` - learning features and relationships.
+- `docs/learning/` - concept explanations by topic.
+- `docs/revision/` - summaries, questions, memory hooks.
+- `docs/decisions/` - durable decisions and rationale.
+- `docs/progress/` - status, milestones, gaps.
+- `docs/prompts/` - project-specific prompt library.
+- `docs/troubleshooting/` - common study and maintenance problems.
+
+## Maintenance Rule
+
+When adding or changing lessons, update the relevant root summary files, `docs/` topic page, `CHANGELOG.md`, `TODO.md`, and `CONTEXT_SNAPSHOT.md`. Prefer short semantic updates over duplicated explanations.
