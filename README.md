@@ -30,6 +30,8 @@ Add each learning outcome, video summary, or rough note under the relevant cours
 - [Lesson 07: Description](course-modules/ai-fluency/lesson-07-description.md)
 - [Lesson 08: Prompting Techniques](course-modules/ai-fluency/lesson-08-prompting-techniques.md)
 - [Lesson 09: Discernment](course-modules/ai-fluency/lesson-09-discernment.md)
+- [Lesson 10: Diligence](course-modules/ai-fluency/lesson-10-diligence.md)
+- [Lesson 11: Course Synthesis](course-modules/ai-fluency/lesson-11-course-synthesis.md)
 
 ## Reference
 

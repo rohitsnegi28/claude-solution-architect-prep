@@ -13,6 +13,8 @@ This module builds a practical framework for collaborating with AI systems effec
 7. [Description](lesson-07-description.md)
 8. [Prompting Techniques](lesson-08-prompting-techniques.md)
 9. [Discernment](lesson-09-discernment.md)
+10. [Diligence](lesson-10-diligence.md)
+11. [Course Synthesis](lesson-11-course-synthesis.md)
 
 ## Core Memory Hook
 
@@ -23,3 +25,11 @@ AI Fluency = knowing when to use AI, how to guide it, how to evaluate it, and ho
 - Three modes of AI engagement: Automation, Augmentation, Agency
 - Four Ds: Delegation, Description, Discernment, Diligence
 - Prompting foundations: context, examples, constraints, steps, thinking, role/style
+- Diligence pillars: Creation, Transparency, Deployment
+
+## Exam Shortcut
+
+- Delegation: decide who should do what.
+- Description: explain what is needed and how AI should work.
+- Discernment: evaluate whether the output and process are good enough.
+- Diligence: use AI ethically, transparently, and accountably.

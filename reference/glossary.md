@@ -32,3 +32,7 @@ Use this file to collect important Claude, AI, cloud, and solution architecture 
 | Performance Discernment | Evaluating the quality of the AI interaction. | Ensures the AI is adapting and communicating effectively. |
 | Few-shot Prompting | Providing examples of desired input-output patterns in a prompt. | Helps the model follow a specific style or structure. |
 | Chain-of-Thought Prompting | Asking or guiding the AI to reason through steps before answering. | Useful for complex tasks requiring structured reasoning. |
+| Creation Diligence | Carefully choosing which AI systems to use and understanding training, data ownership, privacy, and suitability. | Helps prevent unsafe or inappropriate AI use before work begins. |
+| Transparency Diligence | Being open about when and how AI contributed to work. | Builds trust in professional, academic, and personal contexts. |
+| Deployment Diligence | Verifying and taking responsibility for AI-assisted outputs before using or sharing them. | Ensures facts, quality, fairness, and accountability are checked. |
+| Accountability | Responsibility for the final impact of AI-assisted work. | AI assistance does not remove human or organizational responsibility. |

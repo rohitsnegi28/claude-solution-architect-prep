@@ -34,6 +34,14 @@ Use this file to collect possible exam questions as you revise.
 28. Why should complex tasks be broken into steps?
 29. What are product, process, and performance discernment?
 30. How do description and discernment work together?
+31. What is diligence in the AI Fluency framework?
+32. What are the three pillars of diligence?
+33. What is creation diligence?
+34. What is transparency diligence?
+35. What is deployment diligence?
+36. Why does AI assistance not remove human accountability?
+37. How do the Four Ds work together in AI collaboration?
+38. Why is AI Fluency described as a practice rather than a destination?
 
 ## Short Answers
 
@@ -67,3 +75,11 @@ Use this file to collect possible exam questions as you revise.
 28. Breaking tasks into steps reduces ambiguity and improves output quality for complex work.
 29. Product discernment checks the final output, process discernment checks reasoning steps, and performance discernment checks interaction quality.
 30. Description sets expectations, discernment evaluates whether they were met, and feedback improves the next response.
+31. Diligence is the responsible, ethical, safe, transparent, and accountable use of AI.
+32. The three pillars are creation diligence, transparency diligence, and deployment diligence.
+33. Creation diligence means intentionally choosing AI systems and understanding training, data ownership, privacy, and task suitability.
+34. Transparency diligence means being open about when and how AI contributed to work.
+35. Deployment diligence means verifying facts, checking bias and quality, and taking responsibility before using or sharing AI-assisted output.
+36. The user or organization decides how AI output is used, so accountability remains with them.
+37. Delegation decides the work split, Description guides the AI, Discernment evaluates the result, and Diligence ensures responsible use.
+38. AI Fluency is a practice because AI systems keep evolving and users must continuously improve their judgment, communication, evaluation, and responsibility.
